@@ -1,0 +1,52 @@
+# CST8279_Int_To_Python
+CST8279 Coursework
+CST8279_Final_Game.py
+
+References
+
+ActiveState Software Inc. (2022, July 12). How To Position Buttons In Tkinter. Retrieved from ActiveState: https://www.activestate.com/resources/quick-reads/how-to-position-buttons-in-tkinter/
+
+Begueradj, B. (2016, May 4). Tkinter - Changing label text via another function. Retrieved from StackOverflow: https://stackoverflow.com/questions/37033709/tkinter-changing-label-text-via-another-function
+
+Chin, S. (2012, November 29). How to generate random numbers that are different? [duplicate]. Retrieved from StackOverflow: https://stackoverflow.com/questions/13628725/how-to-generate-random-numbers-that-are-different
+
+Iddon, J. (2017, December 29). python pass variable through os.system [duplicate]. Retrieved from StackOverflow: https://stackoverflow.com/questions/48024253/python-pass-variable-through-os-system
+
+Kaplun, E. (2013, October 6). Using any() and all() to check if a list contains one set of values or another. Retrieved from StackOverflow: https://stackoverflow.com/questions/19211828/using-any-and-all-to-check-if-a-list-contains-one-set-of-values-or-another
+
+Klein, B. (2022, February 1). 10. Text Widget in Tkinter. Retrieved from python-course.eu: https://python-course.eu/tkinter/text-widget-in-tkinter.php
+
+Leschinski, E. (2016, April 18). Iterating through list of list in Python. Retrieved from StackOverflow: https://stackoverflow.com/questions/6340351/iterating-through-list-of-list-in-python
+
+Mannan, A. (2023, April 6). Tkinter Text Box. Retrieved from LinuxHint: https://linuxhint.com/tkinter-text-box/
+
+Mohanty, U. (2020, March 2). How to change the color of ttk button. Retrieved from StackOverflow: https://stackoverflow.com/questions/27347981/how-to-change-the-color-of-ttk-button
+
+Oakley, B. (2010, August 7). How do I get the full path of the current file's directory? [duplicate]. Retrieved from StackOverflow: https://stackoverflow.com/questions/3430372/how-do-i-get-the-full-path-of-the-current-files-directory
+
+Oakley, B. (2013, May 19). How do I change the background of a Frame in Tkinter? Retrieved from StackOverflow: https://stackoverflow.com/questions/16639125/how-do-i-change-the-background-of-a-frame-in-tkinter
+
+Oakley, B. (2020, January 11). Tkinter button different commands on right and left mouse click. Retrieved from StackOverflow: https://stackoverflow.com/questions/59696557/tkinter-button-different-commands-on-right-and-left-mouse-click
+
+Panigrahi, K. K. (2021, October 26). How to put a border around a Frame in Python Tkinter? Retrieved from TutorialsPoint: https://www.tutorialspoint.com/how-to-put-a-border-around-a-frame-in-python-tkinter
+
+Pieters, M. (2012, July 17). Difference between del, remove, and pop on lists. Retrieved from StackOverflow: https://stackoverflow.com/questions/11520492/difference-between-del-remove-and-pop-on-lists
+
+plus2net. (2022, January 22). Tkinter dynamic buttons creation using range or a list with button reference management. Retrieved from YouTube: https://www.youtube.com/watch?v=QF68u45tQB4
+
+plus2net. (2022, October 18). Tkinter dynamic creation of Labels by managing rows and columns based on multi-dimensional list. Retrieved from YouTube: https://www.youtube.com/watch?v=lwm7oGYn-rg
+
+Python Software Foundation. (2023, April 5). tkinter — Python interface to Tcl/Tk. Retrieved from Python: https://docs.python.org/3/library/tkinter.html
+
+Ramos, P. L. (2022, June 1). Python's .append(): Add Items to Your Lists in Place. Retrieved from RealPython: https://realpython.com/python-append/
+
+Sharma, D. P. (2017, April 22). How to word-wrap text in Tkinter Text? Retrieved from TutorialsPoint: https://www.tutorialspoint.com/how-to-word-wrap-text-in-tkinter-text#:~:text=In%20Tkinter%2C%20we%20can%20wrap,WORD%2C%20CHARS%2C%20or%20NONE.
+
+Sharma, D. P. (2021, June 19). How to set the height/width of a Label widget in Tkinter? Retrieved from TutorialsPoint: https://www.tutorialspoint.com/how-to-set-the-height-width-of-a-label-widget-in-tkinter
+
+Spurny, J. (2015, Feburary 17). Checking if List contains all items from another list. Retrieved from StackOverflow: https://stackoverflow.com/questions/28567328/checking-if-list-contains-all-items-from-another-list
+
+Willman, J. (2022, August 11). When To Use Pack, Place Or Grid In Tkinter. Retrieved from PythonGUIS: https://www.pythonguis.com/faq/pack-place-and-grid-in-tkinter/
+
+Willman, J. (2023, March 13). Using the Grid Layout Manager in Tkinter. Retrieved from PythonGUIS: https://www.pythonguis.com/tutorials/create-ui-with-tkinter-grid-layout-manager/
+
