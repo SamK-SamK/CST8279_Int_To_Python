@@ -1,10 +1,11 @@
 # CST8279_Int_To_Python
 CST8279 Coursework
-CST8279_Final_Game.py
+
+Referenced material for CST8279_Final_Game.py
 
 References
 
-ActiveState Software Inc. (2022, July 12). How To Position Buttons In Tkinter. Retrieved from ActiveState: https://www.activestate.com/resources/quick-reads/how-to-position-buttons-in-tkinter/
+ActiveState Software Inc. (2022, July 12). How To Position Buttons In Tkinter. Retrieved from ActiveState: https://www.activestate.com/resources/quick-reads/how-to   position-buttons-in-tkinter/
 
 Begueradj, B. (2016, May 4). Tkinter - Changing label text via another function. Retrieved from StackOverflow: https://stackoverflow.com/questions/37033709/tkinter-changing-label-text-via-another-function
 
